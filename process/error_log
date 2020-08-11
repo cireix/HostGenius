@@ -1,0 +1,1 @@
+[18-Sep-2018 06:19:22 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, boolean given in /home/w4ugrf1bpwpb/public_html/hostgenius/process/createProcess.php on line 47

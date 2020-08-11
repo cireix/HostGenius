@@ -1,0 +1,179 @@
+.btn-primary {
+  border-color: #348df7 !important;
+  background-color: #348df7 !important;
+  color: white !important;
+}
+.btn-primary:hover {
+  border-color: #348df7 !important;
+  background-color: white !important;
+  color: #348df7 !important;
+}
+.header {
+  margin-bottom: 5px;
+}
+.list li {
+  padding: 2.5px 0;
+}
+
+.transactions th {
+  text-align: center;
+  font-size: 10px !important;
+}
+.transactions td {
+  text-align: center;
+}
+.status {
+  color: white;
+  padding: 3px 7px;
+}
+.Paid {
+  background: green;
+}
+.Upcoming {
+  background: #f4d341;
+}
+.Late {
+  background: red;
+}
+.chatlog {
+  margin-top: 25px;
+  padding-left: 20px;
+}
+.message {
+  padding-left: 20px;
+}
+.post {
+  margin-bottom: 20px;
+}
+.comments {
+  padding-bottom: 20px;
+}
+hr {
+  margin: 0;
+  margin-bottom: 5px;
+}
+.editInvBtn {
+  position: absolute;
+  right: 20px;
+  top: 20px;
+  height: 25px;
+  padding: 0px 17px;
+}
+.editDamBtn {
+  position: absolute;
+  right: 20px;
+  top: 20px;
+  height: 25px;
+  padding: 0px 17px;
+}
+.editCount {
+  width: 22px;
+}
+.newField {
+  text-align: center;
+  margin-top: 10px;
+  padding-bottom: 10px;
+}
+.newFieldCount {
+  height: 25px;
+  width: 50px;
+}
+.newFieldText {
+  height: 25px;
+}
+.newFieldAdd {
+  height: 28px;
+  padding: 0px 18px;
+  margin-left: 10px;
+}
+.editTrans {
+  height: 30px;
+  padding: 0 5px;
+}
+.deleteTrans {
+  height: 30px;
+  padding: 0 5px;
+}
+.deleteItem {
+  border: none;
+  outline: none;
+}
+.transFormRow {
+  padding: 0px 20px;
+}
+.addTransBtn {
+  position: absolute;
+  right: 20px;
+  top: 20px;
+  height: 25px;
+  padding: 0px 17px;
+}
+.addComBtn {
+  position: absolute;
+  right: 20px;
+  top: 20px;
+  height: 25px;
+  padding: 0px 17px;
+}
+.addComment {
+  margin-top: 20px;
+  padding: 0 20px;
+  display: none;
+  position: relative;
+}
+#commentBox {
+  height: 100px;
+  width: 80%;
+  padding: 0px 5px;
+  font-size: 15px;
+  outline: none;
+  resize: none;
+}
+.sendComment {
+  width: 15%;
+  margin-left: 4%;
+  height: 100px;
+  position: absolute;
+}
+.loginBody {
+  background: rgb(78, 100, 192);
+}
+.dates {
+  margin: 0;
+  font-size: 13px;
+}
+.cal1 {
+  background: #f5b7b1 !important;
+}
+.cal2 {
+  background: #d2b4de !important;
+}
+.cal3 {
+  background: #aed6f1 !important;
+}
+.cal4 {
+  background: #a2d9ce !important;
+}
+.cal5 {
+  background: #f9e79f !important;
+}
+.cal6 {
+  background: #f5cba7 !important;
+}
+.cal7 {
+  background: #aeb6bf !important;
+}
+.fc-day-top {
+  position: relative;
+}
+.clientName {
+  position: absolute;
+  left: 0;
+}
+#addEvent {
+  margin-top: 20px;
+}
+.eventAdd {
+  margin-top: 20px;
+  padding: 15px 80px;
+}
